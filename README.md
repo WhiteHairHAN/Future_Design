@@ -2,7 +2,9 @@
 
 ## 개요  
     미래설계2, 오픈소스전문프로젝트 과목에서 수행한 Term-project입니다.
+    Wifi 통신으로 아두이노에서 습득한 데이터를 Blynk Application에 원하는 정보를 출력합니다. 
 <img src="image/Title_1.jpg" width="480" height="640">
+<img src="image/Title_2.PNG" width="960" height="540">
 
 ## Motivation  
     L사의 Home IoT제품군, S사의 인공지능서비스 N제품에 영감을 받았으며,  
